@@ -1,0 +1,42 @@
+7.3 Raffle System
+
+7.3.1 How it Works
+
+The automated raffle system operates based on user transactions, accumulating eligibility for periodic raffles.
+
+7.3.2 Eligibility Criteria
+
+Investors purchase exactly $25 worth of $BOAR Tokens four times in 24 hours to be eligible for the raffle.
+
+7.3.3 Winner Selection
+
+Raffle winners are drawn as soon as the maximum of 150 contestants is reached.
+
+7.3.4 Raffle Payouts
+
+50% of each $25 investment gets vested until the raffle winner is picked, while the remaining 50% goes to the investor as usual. The winner receives all vested tokens once selected.
+
+7.3.5 Additional Raffle Details
+
+- One entry per wallet per raffle.
+- If an investor pays $25 once, twice, or three times in 24 hours without completing the fourth to qualify, the vested tokens will be returned to the investor once the 24-hour window closes.
+- If an investor invests $25 more than four times in 24 hours, each transaction after qualifying for the raffle acts as a normal investment.
+- Once the winner is automatically paid $7,500 in token value from the accumulated vested entry fees, the contestant list is cleared, and a new raffle begins.
+
+8. Second Raffle System Explanation
+
+8.1 How it Works
+
+The second raffle system operates with the same logic as the original raffle system, but the eligibility criteria are based on purchasing exactly $150 worth of $BOAR Tokens four times in a 24-hour period.
+
+8.2 Eligibility Criteria
+
+Investors become eligible for the second raffle by purchasing exactly $150 worth of $BOAR Tokens four times within 24 hours.
+
+8.3 Winner Selection
+
+Raffle winners are drawn once the maximum of 150 contestants is reached, ensuring fairness and excitement in the selection process.
+
+8.4 Raffle Payouts
+
+Similar to the original raffle system, 50% of each $150 investment gets vested until the raffle winner is picked, while the remaining 50% goes to the investor as usual. The winner receives all vested tokens once selected.
